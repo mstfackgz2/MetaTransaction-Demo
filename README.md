@@ -107,19 +107,19 @@ npx hardhat run scripts/testScenario.js --network sepolia
 # Proje Yapısı #
 ├── contracts/
 │   ├── interfaces/
-│   │   ├── IAccount.sol          # Account interface
-│   │   ├── IPaymaster.sol        # Paymaster interface
-│   │   └── UserOperation.sol     # UserOperation struct
-│   ├── PaymasterContract.sol     # Gas sponsorship contract
-│   ├── SimpleAccount.sol         # ERC-4337 smart wallet
-│   └── TestToken.sol            # ERC20 test token
+│   │   ├── IAccount.sol
+│   │   ├── IPaymaster.sol
+│   │   └── UserOperation.sol
+│   ├── PaymasterContract.sol
+│   ├── SimpleAccount.sol
+│   └── TestToken.sol
 ├── scripts/
-│   ├── deploy.js                # Deployment script
-│   ├── demo.js                  # Basic demo
-│   ├── testScenario.js          # Detailed test
-│   ├── verify.js                # Contract verification
-│   └── metaTransaction.js       # UserOperation utilities
-├── hardhat.config.js            # Hardhat configuration
+│   ├── deploy.js
+│   ├── demo.js
+│   ├── testScenario.js
+│   ├── verify.js
+│   └── metaTransaction.js
+├── hardhat.config.js
 └── package.json
 
 
