@@ -4,6 +4,7 @@ Bu proje, ERC-4337 Account Abstraction standardını kullanarak meta transaction
 
 
 # Mimari
+```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   Wallet A      │    │   SimpleAccount  │    │   Wallet B      │
 │   (Sender)      │───▶│   (Smart Wallet) │───▶│   (Receiver)    │
@@ -14,8 +15,7 @@ Bu proje, ERC-4337 Account Abstraction standardını kullanarak meta transaction
 │   Wallet X      │───▶│   Paymaster      │───▶│   EntryPoint    │
 │   (Sponsor)     │    │   (Gas Sponsor)  │    │   (ERC-4337)    │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
-
-
+```
 
 
 
