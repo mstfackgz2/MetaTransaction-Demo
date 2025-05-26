@@ -105,6 +105,7 @@ npx hardhat run scripts/testScenario.js --network sepolia
 
 
 # Proje Yapısı #
+```
 ├── contracts/
 │   ├── interfaces/
 │   │   ├── IAccount.sol
@@ -121,6 +122,7 @@ npx hardhat run scripts/testScenario.js --network sepolia
 │   └── metaTransaction.js
 ├── hardhat.config.js
 └── package.json
+```
 
 
 
@@ -128,9 +130,8 @@ npx hardhat run scripts/testScenario.js --network sepolia
 
 
 
-
-#Script	            Açıklama
-
+#Script ve aciklamasi 
+```
 deploy.js	          ->  Contract'ları deploy eder ve initial setup yapar
 verify.js         	->  Contract'ları Etherscan'de verify eder
 demo.js	            ->  Temel meta transaction demo'su
@@ -143,7 +144,7 @@ metaTransaction.js  -> 	UserOperation oluşturma utilities
 TestToken: 0x446D876ba69Ac9ce3b66cd615F86Bdbf4bf3AAac
 PaymasterContract: 0xeadc4C07b22c8EdDe74C8BD91327b4be7C34B5e5
 SimpleAccount: 0xcDCc1b793517cA6d4CABFf2aD3602fE6222693b2
-
+```
 
 
 
