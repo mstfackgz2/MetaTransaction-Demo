@@ -36,7 +36,7 @@ npm install --save @account-abstraction/contracts
 # Kurulum #
 1. Repository'yi klonlayın
 ```shell
-git clone <repository-url>
+git clone https://github.com/mstfackgz2/MetaTransaction-Demo
 cd MetaTransaction-Demoo
 ```
 
