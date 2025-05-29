@@ -149,15 +149,15 @@ SimpleAccount: 0xcDCc1b793517cA6d4CABFf2aD3602fE6222693b2
 
 
 # Kaynaklar 
+<ul>
+ <li> <a href="https://www.youtube.com/watch?v=MHZ0LwpKcpI">https://www.youtube.com/watch?v=MHZ0LwpKcpI</a></li>
+  <li> <a href="https://eips.ethereum.org/EIPS/eip-4337" >https://eips.ethereum.org/EIPS/eip-4337</a></li>
+  <li> <a href="https://sepolia.etherscan.io/" >https://sepolia.etherscan.io/</a></li>
+  <li> <a href="https://www.alchemy.com/docs/account-abstraction-overview" >https://www.alchemy.com/docs/account-abstraction-overview</a></li>
+  <li> <a href="https://www.youtube.com/watch?v=CtPeZJ0wyAU" >https://www.youtube.com/watch?v=CtPeZJ0wyAU </a></li>
+ <li>  <a href="https://www.youtube.com/watch?v=oolgV2M8ZUI&t=592s" >https://www.youtube.com/watch?v=oolgV2M8ZUI&t=592s </a></li>
 
-<a href="https://www.youtube.com/watch?v=MHZ0LwpKcpI">https://www.youtube.com/watch?v=MHZ0LwpKcpI</a>
-<a href="https://eips.ethereum.org/EIPS/eip-4337" >https://eips.ethereum.org/EIPS/eip-4337</a>
-<a href="https://sepolia.etherscan.io/" >https://sepolia.etherscan.io/</a>
-<a href="https://www.alchemy.com/docs/account-abstraction-overview" >https://www.alchemy.com/docs/account-abstraction-overview</a>
-<a href="https://www.youtube.com/watch?v=CtPeZJ0wyAU" >https://www.youtube.com/watch?v=CtPeZJ0wyAU </a>
-<a href="https://www.youtube.com/watch?v=oolgV2M8ZUI&t=592s" >https://www.youtube.com/watch?v=oolgV2M8ZUI&t=592s </a>
-
-
+</ul>
 
 
 
